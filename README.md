@@ -1,2 +1,9 @@
 # 100 days of CompetitiveProgramming
- This is my target to practise daily competitive programming for 100 days.
+ 
+ <br>
+
+| Category    | About       | Link to question  | Link to solutions |
+| :---        |    :----:   |          ---:     |          ---: |
+|       | Title       | Here's this       | Here's this   |
+| Paragraph   | Text        | And more          | And more      |
+
