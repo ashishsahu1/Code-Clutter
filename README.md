@@ -4,6 +4,12 @@
 
 | Category    | About       | Link to question  | Link to solutions |
 | :---        |    :----:   |          ---:     |          ---: |
-|       | Title       | Here's this       | Here's this   |
-| Paragraph   | Text        | And more          | And more      |
+| Beginner      | Enourmous Data       | [INTEST](https://www.codechef.com/problems/INTEST)      | [solution1](Biginner/enourmousData.py)   |
+| Beginner      | Enourmous Data       | [INTEST](https://www.codechef.com/problems/INTEST)      | [solution1](Biginner/enourmousData.py)   |
+| Beginner      | Enourmous Data       | [INTEST](https://www.codechef.com/problems/INTEST)      | [solution1](Biginner/enourmousData.py)   |
+| Beginner      | Enourmous Data       | [INTEST](https://www.codechef.com/problems/INTEST)      | [solution1](Biginner/enourmousData.py)   |
+| Beginner      | Enourmous Data       | [INTEST](https://www.codechef.com/problems/INTEST)      | [solution1](Biginner/enourmousData.py)   |
+| Beginner      | Enourmous Data       | [INTEST](https://www.codechef.com/problems/INTEST)      | [solution1](Biginner/enourmousData.py)   |
+| Beginner      | Enourmous Data       | [INTEST](https://www.codechef.com/problems/INTEST)      | [solution1](Biginner/enourmousData.py)   |
+| Beginner      | Enourmous Data       | [INTEST](https://www.codechef.com/problems/INTEST)      | [solution1](Biginner/enourmousData.py)   |
 
