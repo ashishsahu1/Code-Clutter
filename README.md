@@ -1,4 +1,4 @@
-# 100 days of CompetitiveProgramming
+![](img/banner.png)
  
  <br>
 
