@@ -11,5 +11,6 @@
 | Beginner      | Puja ATM       | [HS08TEST](https://www.codechef.com/problems/HS08TEST)      | [python](Biginner/pujaATM.py)   |
 | Beginner      | Shivam's Addition      | [ FLOW006](https://www.codechef.com/problems/FLOW006)      | [python](Biginner/shivamAddition.py)   |
 | Beginner      | turbo sort     | [ TSORT](https://www.codechef.com/problems/TSORT)      | [python](Biginner/turboSort.py)   |
-| Beginner      | First and Last Digit   | [ TSORT](https://www.codechef.com/problems/TSORT)      | [python](Biginner/turboSort.py)   |
+| Beginner      | First and Last Digit   | [FLOW004](https://www.codechef.com/problems/FLOW004)      | [python](Biginner/firstAndLast.py)   |
+| Beginner      | Lucky Four   | [LUCKFOUR](https://www.codechef.com/problems/LUCKFOUR)      | [python](Biginner/firstAndLast.py)   |
 
