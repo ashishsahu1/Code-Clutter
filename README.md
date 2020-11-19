@@ -14,4 +14,4 @@
 | Beginner      | turbo sort     | [ TSORT](https://www.codechef.com/problems/TSORT)      | [python](Biginner/turboSort.py)   |
 | Beginner      | First and Last Digit   | [FLOW004](https://www.codechef.com/problems/FLOW004)      | [python](Biginner/firstAndLast.py)   |
 | Beginner      | Lucky Four   | [LUCKFOUR](https://www.codechef.com/problems/LUCKFOUR)      | [python](Biginner/LuckyFour.py)   |
-
+| Beginner      | Finding Square Root   | [FSQRT](https://www.codechef.com/problems/FSQRT)      | [python](Biginner/findingSqrt.py)   |
