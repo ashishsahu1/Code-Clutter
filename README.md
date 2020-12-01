@@ -30,6 +30,8 @@
 | <img width=400/>     | <img width=400/>      | <img width=400/>      | <img width=400/>   |
 | 1      | Trapping Water Problem       | [TRAPWAT](https://www.geeksforgeeks.org/trapping-rain-water/)      | [python](GFG/GFGproblemSet1/trappingRainWater.py)   |
 | 2      | Substring Problem       | [SUBSTR](https://www.geeksforgeeks.org/program-print-substrings-given-string/)      | [python](GFG/GFGproblemSet1/substr.py)   |
+| 3      | Prime Number     | [PRMNBR](https://www.geeksforgeeks.org/prime-numbers/)      | [python](GFG/GFGproblemSet1/primeNo.py)   |
+| 4      | Prime Number using eratosthenes    | [PRMNBR](https://www.geeksforgeeks.org/prime-numbers/)      | [python](GFG/GFGproblemSet1/primeNoerat.py)   |
 
 
 ## Practice
