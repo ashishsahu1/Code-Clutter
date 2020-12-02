@@ -32,7 +32,10 @@
 | 2      | Substring Problem       | [SUBSTR](https://www.geeksforgeeks.org/program-print-substrings-given-string/)      | [python](GFG/GFGproblemSet1/substr.py)   |
 | 3      | Prime Number     | [PRMNBR](https://www.geeksforgeeks.org/prime-numbers/)      | [python](GFG/GFGproblemSet1/primeNo.py)   |
 | 4      | Prime Number using eratosthenes    | [PRMNBR](https://www.geeksforgeeks.org/prime-numbers/)      | [python](GFG/GFGproblemSet1/primeNoerat.py)   |
-
+| 5      | Removing duplicate from an array    | [RMVDPLARR](https://www.geeksforgeeks.org/remove-duplicates-sorted-array/)      | [python](GFG/GFGproblemSet1/duplicateInArray.py)   |
+| 6      | merge withour space    | [MRGSPC](https://www.geeksforgeeks.org/)      | [python](GFG/GFGproblemSet1/mergeWithourSpace.py)   |
+| 7      | Rearrange an array   | [REERAN](https://www.geeksforgeeks.org/)      | [python](GFG/GFGproblemSet1/rearrange.py)   |
+| 8      | Smallest positive missing integer    | [REERAN](https://www.geeksforgeeks.org/)      | [python](GFG/GFGproblemSet1/missingInt.py)   |
 
 ## Practice
  
