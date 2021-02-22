@@ -44,3 +44,10 @@
 | :---        |    :----:   |          ---:     |          ---: |
 | <img width=400/>     | <img width=400/>      | <img width=200/>      | <img width=400/>   |
 | 1      | Dictionary Maximum Score       | A list of tuple is given as an input in which each tuple consist of a player name and his score in a match, we can have multiple tuple with same name, We have to find the highest aggregate score and print that.      | [python](practice/dicMax.py)   |
+
+## practicepython.org
+
+| Number    | Name     | About question  | Link to solutions |
+| :---        |    :----:   |          ---:     |          ---: |
+| <img width=400/>     | <img width=400/>      | <img width=200/>      | <img width=400/>   |
+| 1      | Character Input       | A list of tuple is given as an input in which each tuple consist of a player name and his score in a match, we can have multiple tuple with same name, We have to find the highest aggregate score and print that.      | [python](practice/dicMax.py)   |
